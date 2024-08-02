@@ -1,7 +1,6 @@
 ## Hi there <img src="https://cdn.pixabay.com/animation/2024/07/28/23/04/23-04-11-661_512.gif" width="40px">, I am Phiwamandla Mkhwanazi
 
-![GitHub forks](https://img.shields.io/github/forks/phiwamandla-mkhwanazi/:repo)
-![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social) ![GitHub User's stars] https://img.shields.io/github/stars/phiwamandla-mkhwanazi)
+![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social)
 
 
 
