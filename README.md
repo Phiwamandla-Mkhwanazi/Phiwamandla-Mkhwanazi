@@ -11,12 +11,12 @@ However, recognizing the importance of a well-rounded skill set in today's tech 
 My career goals are centered around becoming a full-stack developer who can seamlessly integrate back-end robustness with intuitive and dynamic front-end interfaces. I am passionate about continuous learning and am currently expanding my expertise in software engineering principles to stay ahead in this ever-evolving field. My journey is one of ongoing growth, and I am eager to contribute to innovative projects that leverage my comprehensive skill set to deliver impactful solutions.
 
 ---
-🧰Totalbox
+🧰 Totalbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" height="50px">
 
 ---
-📊Github Stats
+📊 Github Stats
 
 
 
