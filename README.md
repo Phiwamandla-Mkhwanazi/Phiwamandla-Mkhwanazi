@@ -4,7 +4,11 @@
 
 ---
 
+I specialize in creating intuitive and dynamic user interfaces using the latest technologies.
 
+In my role as a Back-End Developer, I focus on building robust and scalable server-side applications.
+
+I ensure the reliability, security, and efficiency of IT infrastructure and streamline software development processes.
 
 
 
