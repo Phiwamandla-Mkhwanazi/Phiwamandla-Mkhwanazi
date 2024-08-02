@@ -1,4 +1,4 @@
-## Hi there 🔭, I am Phiwamandla Mkhwanazi
+## Hi there <img src="https://cdn.pixabay.com/animation/2024/07/28/23/04/23-04-11-661_512.gif">, I am Phiwamandla Mkhwanazi
 
 <!--
 **Phiwamandla-Mkhwanazi/phiwamandla-mkhwanazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
