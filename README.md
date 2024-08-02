@@ -1,6 +1,7 @@
 ## Hi there <img src="https://cdn.pixabay.com/animation/2024/07/28/23/04/23-04-11-661_512.gif" width="40px">, I am Phiwamandla Mkhwanazi
 
-![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social)  &emsp; ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcodespaceza%3Flang%3Den)
+![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social)  &emsp; ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcodespaceza%3Flang%3Den) &emsp; https://img.shields.io/youtube/channel/subscribers/UCi3RnfUQLRnPy2Uyi5tjG1w
+
 
 
 ---
