@@ -1,6 +1,8 @@
 ## Hi there <img src="https://cdn.pixabay.com/animation/2024/07/28/23/04/23-04-11-661_512.gif" width="40px">, I am Phiwamandla Mkhwanazi
 
-![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social)  &emsp; ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcodespaceza%3Flang%3Den) &emsp; ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCi3RnfUQLRnPy2Uyi5tjG1w)
+ &emsp; ![GitHub followers](https://img.shields.io/github/followers/phiwamandla-mkhwanazi?style=social)  &emsp; ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fcodespaceza%3Flang%3Den) &emsp; ![YouTube Channel Subscribers] &emsp;(https://img.shields.io/youtube/channel/subscribers/UCi3RnfUQLRnPy2Uyi5tjG1w) <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 
 
