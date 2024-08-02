@@ -12,7 +12,7 @@ I ensure the reliability, security, and efficiency of IT infrastructure and stre
 
 ---
 🧰Totalbox
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50">
 
 
 
