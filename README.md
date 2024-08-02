@@ -22,7 +22,7 @@ I ensure the reliability, security, and efficiency of IT infrastructure and stre
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px">
 <img src="" width="50px" height="50px">
 <img src="" width="50px" height="50px">
-<img src="" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" height="50px">
 
 
 
