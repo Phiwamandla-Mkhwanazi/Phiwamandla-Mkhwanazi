@@ -18,7 +18,7 @@ My career goals are centered around becoming a full-stack developer who can seam
 ---
 📊 Github Stats
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phiwamandla-mkhwanazi_icons=true&theme=radical)
 
 
 
