@@ -1,5 +1,9 @@
 ## Hi there <img src="https://cdn.pixabay.com/animation/2024/07/28/23/04/23-04-11-661_512.gif" width="40px">, I am Phiwamandla Mkhwanazi
 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+
+
+
 <!--
 **Phiwamandla-Mkhwanazi/phiwamandla-mkhwanazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
