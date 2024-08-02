@@ -4,7 +4,11 @@
 
 ---
 
-I am a versatile IT professional with a strong foundation in both software development and network administration. As a Computer Science graduate, I have honed my skills through hands-on experience and continuous learning. My expertise spans across front-end development, back-end development, and network & system administration, with a recent focus on enhancing my front-end skills through a specialized bootcamp
+As a dedicated Computer Science graduate with a strong foundation in back-end technologies, I have focused my academic and practical experience on mastering languages such as C and C#, delving into complex algorithms, and navigating the intricacies of the Debian operating system. My journey in software development has been driven by a commitment to depth over breadth, ensuring that I am proficient in the areas I concentrated on during my studies.
+
+However, recognizing the importance of a well-rounded skill set in today's tech landscape, I sought to bridge the gap in my knowledge by enrolling in one of the leading bootcamps for front-end development. This decision has allowed me to enhance my capabilities in HTML, CSS, JavaScript, and modern frameworks, thereby addressing my initial weaknesses and evolving into a more versatile developer.
+
+My career goals are centered around becoming a full-stack developer who can seamlessly integrate back-end robustness with intuitive and dynamic front-end interfaces. I am passionate about continuous learning and am currently expanding my expertise in software engineering principles to stay ahead in this ever-evolving field. My journey is one of ongoing growth, and I am eager to contribute to innovative projects that leverage my comprehensive skill set to deliver impactful solutions.
 
 ---
 🧰Totalbox
