@@ -4,16 +4,12 @@
 
 ---
 
-I specialize in creating intuitive and dynamic user interfaces using the latest technologies.
-
-In my role as a Back-End Developer, I focus on building robust and scalable server-side applications.
-
-I ensure the reliability, security, and efficiency of IT infrastructure and streamline software development processes.
+I am a versatile IT professional with a strong foundation in both software development and network administration. As a Computer Science graduate, I have honed my skills through hands-on experience and continuous learning. My expertise spans across front-end development, back-end development, and network & system administration, with a recent focus on enhancing my front-end skills through a specialized bootcamp
 
 ---
 🧰Totalbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50px" height="50px">
 
 ---
 
