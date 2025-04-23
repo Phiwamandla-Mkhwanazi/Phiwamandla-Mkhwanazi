@@ -16,7 +16,8 @@ On the frontend, React is home. With JSX, Tailwind CSS, and Vite, I unlock the f
 
 On the backend, Java is my daily brew ☕—a language I truly resonate with. It’s reliable, powerful, and incredibly versatile, especially for embedded projects like those on Raspberry Pi. Kotlin may be calling from the horizon, but Java still delivers—without compromise.
 
-Unexpectedly, I ventured into the Salesforce ecosystem. What began with Trailhead modules turned into a deeper understanding of the cloud, CRM architecture, and multitenancy. I now build with Apex, LWC, and JavaScript, and I’ve come to admire how the platform empowers both developers and non-developers alike.
+Unexpectedly, I ventured into the Salesforce ecosystem. What began with Trailhead modules turned into a deeper understanding of the cloud, CRM architecture, and multitenancy. I now build with Apex, LWC, and JavaScript, and I've come to admire how the platform empowers both developers and non-developers alike.
+
 ---
 🧰 Totalbox
 
