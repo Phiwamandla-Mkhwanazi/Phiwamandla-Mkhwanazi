@@ -7,13 +7,16 @@
 
 
 ---
+👨‍💻 Who Am I?
+An indomitable full-stack developer thriving at the intersection of backend logic and frontend finesse—always chasing that sweet spot where functionality meets elegance.
 
-As a dedicated Computer Science graduate with a strong foundation in back-end technologies, I have focused my academic and practical experience on mastering languages such as C and C#, delving into complex algorithms, and navigating the intricacies of the Debian operating system. My journey in software development has been driven by a commitment to depth over breadth, ensuring that I am proficient in the areas I concentrated on during my studies.
+My journey began with C—raw, powerful, and close to the metal. It felt like wielding ancient magic. But I didn’t stop there. I’ve since embraced tools and frameworks that make development more expressive, maintainable, and scalable.
 
-However, recognizing the importance of a well-rounded skill set in today's tech landscape, I sought to bridge the gap in my knowledge by enrolling in one of the leading bootcamps for front-end development. This decision has allowed me to enhance my capabilities in HTML, CSS, JavaScript, and modern frameworks, thereby addressing my initial weaknesses and evolving into a more versatile developer.
+On the frontend, React is home. With JSX, Tailwind CSS, and Vite, I unlock the full power of modern web development—streamlining both build and debug processes. React is the frontend for me. That said, I appreciate the elegance of minimalism: Lit for lightweight Web Components, and Redux when I crave that functional purity. Best part? React plays nicely with both.
 
-My career goals are centered around becoming a full-stack developer who can seamlessly integrate back-end robustness with intuitive and dynamic front-end interfaces. I am passionate about continuous learning and am currently expanding my expertise in software engineering principles to stay ahead in this ever-evolving field. My journey is one of ongoing growth, and I am eager to contribute to innovative projects that leverage my comprehensive skill set to deliver impactful solutions.
+On the backend, Java is my daily brew ☕—a language I truly resonate with. It’s reliable, powerful, and incredibly versatile, especially for embedded projects like those on Raspberry Pi. Kotlin may be calling from the horizon, but Java still delivers—without compromise.
 
+Unexpectedly, I ventured into the Salesforce ecosystem. What began with Trailhead modules turned into a deeper understanding of the cloud, CRM architecture, and multitenancy. I now build with Apex, LWC, and JavaScript, and I’ve come to admire how the platform empowers both developers and non-developers alike.
 ---
 🧰 Totalbox
 
